@@ -1,0 +1,1131 @@
+.version.servicios /* version checker */
+{
+	color: #000009;
+	background-color: #0C76A0;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 1808px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -6px;
+	margin-bottom: -75px;
+}
+
+#pu841-4
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u841-4
+{
+	z-index: 28;
+	width: 392px;
+	min-height: 52px;
+	margin-right: -10000px;
+}
+
+#menuu74
+{
+	z-index: 2;
+	width: 571px;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 609px;
+}
+
+#u82
+{
+	width: 141px;
+	min-height: 50px;
+	margin-right: -10000px;
+}
+
+#u85
+{
+	width: 141px;
+	padding-bottom: 26px;
+}
+
+#u85:hover
+{
+	margin: 0px;
+}
+
+#u85:active
+{
+	margin: 0px;
+}
+
+#u86-4
+{
+	width: 141px;
+	min-height: 24px;
+	margin-right: -10000px;
+	top: 13px;
+}
+
+#u85:hover #u86-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u85:active #u86-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u96
+{
+	width: 141px;
+	min-height: 50px;
+	margin-right: -10000px;
+	left: 143px;
+}
+
+#u99
+{
+	width: 141px;
+	padding-bottom: 26px;
+}
+
+#u85.MuseMenuActive,#u99:hover
+{
+	margin: 0px;
+}
+
+#u99:active
+{
+	margin: 0px;
+}
+
+#u101-4
+{
+	width: 141px;
+	min-height: 24px;
+	margin-right: -10000px;
+	top: 13px;
+}
+
+#u85.MuseMenuActive #u86-4,#u99:hover #u101-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u99:active #u101-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u109
+{
+	width: 141px;
+	min-height: 50px;
+	margin-right: -10000px;
+	left: 286px;
+}
+
+#u112
+{
+	width: 141px;
+	padding-bottom: 26px;
+}
+
+#u99.MuseMenuActive,#u112:hover
+{
+	margin: 0px;
+}
+
+#u112:active
+{
+	margin: 0px;
+}
+
+#u115-4
+{
+	width: 141px;
+	min-height: 24px;
+	margin-right: -10000px;
+	top: 13px;
+}
+
+#u99.MuseMenuActive #u101-4,#u112:hover #u115-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u112:active #u115-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u122
+{
+	width: 141px;
+	min-height: 50px;
+	margin-right: -10000px;
+	left: 429px;
+}
+
+#u125
+{
+	width: 141px;
+	padding-bottom: 26px;
+}
+
+#u112.MuseMenuActive,#u125:hover
+{
+	margin: 0px;
+}
+
+#u125:active
+{
+	margin: 0px;
+}
+
+#u125.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u126-4
+{
+	width: 141px;
+	min-height: 24px;
+	margin-right: -10000px;
+	top: 13px;
+}
+
+#u112.MuseMenuActive #u115-4,#u125:hover #u126-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u125:active #u126-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u125.MuseMenuActive #u126-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1279
+{
+	z-index: 166;
+	height: 476px;
+	-pie-box-shadow: 7px 7px 8px #BFBFBF;
+	-moz-box-shadow: 7px 7px 8px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow: 7px 7px 8px -1px rgba(0, 0, 0, 0.25);
+	box-shadow: 7px 7px 8px rgba(0, 0, 0, 0.25);
+	border-color: #000000;
+	background: #7F7F7F url("../images/servicios.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1279-bw
+{
+	z-index: 166;
+	margin-top: 12px;
+	height: 476px;
+}
+
+#u308-4
+{
+	z-index: 65;
+	width: 275px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #337EC0;
+	font-size: 51px;
+	line-height: 61px;
+	text-align: left;
+	margin-left: 20px;
+	margin-top: 84px;
+	position: relative;
+}
+
+#u1280-4
+{
+	z-index: 167;
+	width: 561px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #999999;
+	font-size: 21px;
+	line-height: 29px;
+	text-align: left;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	margin-left: 20px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u1278
+{
+	z-index: 69;
+	width: 1170px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 20px;
+	margin-top: 67px;
+	position: relative;
+}
+
+#ppu1033
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#pu1033
+{
+	z-index: 70;
+	width: 0.01px;
+	position: relative;
+}
+
+#u1037
+{
+	z-index: 74;
+	width: 275px;
+	height: 210px;
+	border-color: #000000;
+	position: relative;
+	background: #7F7F7F url("../images/pediatria-u1037-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1041-4
+{
+	z-index: 78;
+	width: 275px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u1045
+{
+	z-index: 94;
+	width: 84px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 96px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u1046
+{
+	z-index: 95;
+	width: 84px;
+	border-color: #000000;
+	background-color: #3EA6DC;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1047-4
+{
+	z-index: 96;
+	width: 71px;
+	min-height: 16px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 7px;
+}
+
+#pu1081
+{
+	z-index: 118;
+	width: 0.01px;
+	position: relative;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+}
+
+#u1083
+{
+	z-index: 120;
+	width: 275px;
+	height: 210px;
+	border-color: #000000;
+	position: relative;
+	background: #7F7F7F url("../images/recuperacion-u1083-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1093
+{
+	z-index: 142;
+	width: 84px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 95px;
+	margin-top: 64px;
+	position: relative;
+}
+
+#u1094
+{
+	z-index: 143;
+	width: 84px;
+	border-color: #000000;
+	background-color: #3EA6DC;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1095-4
+{
+	z-index: 144;
+	width: 71px;
+	min-height: 16px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 7px;
+}
+
+#u1089-4
+{
+	z-index: 126;
+	width: 275px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 229px;
+}
+
+#ppu1034
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 295px;
+}
+
+#pu1034
+{
+	z-index: 71;
+	width: 0.01px;
+	position: relative;
+}
+
+#u1038
+{
+	z-index: 75;
+	width: 275px;
+	height: 210px;
+	border-color: #000000;
+	position: relative;
+	background: #7F7F7F url("../images/ginecologia-u1038-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1044-4
+{
+	z-index: 90;
+	width: 275px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u1048
+{
+	z-index: 100;
+	width: 84px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 96px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u1050
+{
+	z-index: 101;
+	width: 84px;
+	border-color: #000000;
+	background-color: #3EA6DC;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1049-4
+{
+	z-index: 102;
+	width: 71px;
+	min-height: 16px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 7px;
+}
+
+#ppu1081,#ppu1082
+{
+	width: 0.01px;
+	margin-left: 10px;
+	margin-top: 77px;
+}
+
+#pu1082
+{
+	z-index: 119;
+	width: 0.01px;
+	position: relative;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+}
+
+#pu1083,#pu1084
+{
+	width: 0.01px;
+	position: relative;
+	z-index: 2;
+	padding-bottom: 25px;
+}
+
+#u1084
+{
+	z-index: 121;
+	width: 275px;
+	height: 210px;
+	border-color: #000000;
+	position: relative;
+	background: #7F7F7F url("../images/consulta-medica-u1084-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1096
+{
+	z-index: 148;
+	width: 84px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 96px;
+	margin-top: 64px;
+	position: relative;
+}
+
+#u1098
+{
+	z-index: 149;
+	width: 84px;
+	border-color: #000000;
+	background-color: #3EA6DC;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1097-4
+{
+	z-index: 150;
+	width: 71px;
+	min-height: 16px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 7px;
+}
+
+#u1090-4
+{
+	z-index: 130;
+	width: 275px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 229px;
+}
+
+#ppu1035
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 590px;
+}
+
+#pu1035
+{
+	z-index: 72;
+	width: 0.01px;
+	position: relative;
+}
+
+#u1039
+{
+	z-index: 76;
+	width: 275px;
+	height: 210px;
+	border-color: #000000;
+	position: relative;
+	background: #7F7F7F url("../images/oftal-u1039-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1042-4
+{
+	z-index: 82;
+	width: 275px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u1051
+{
+	z-index: 106;
+	width: 84px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 95px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u1053
+{
+	z-index: 107;
+	width: 84px;
+	border-color: #000000;
+	background-color: #3EA6DC;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1052-4
+{
+	z-index: 108;
+	width: 71px;
+	min-height: 16px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 7px;
+}
+
+#ppu1085
+{
+	width: 0.01px;
+	margin-left: 8px;
+	margin-top: 75px;
+}
+
+#pu1085
+{
+	z-index: 122;
+	width: 0.01px;
+	position: relative;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	margin-left: 2px;
+}
+
+#u1086
+{
+	z-index: 123;
+	width: 275px;
+	height: 210px;
+	border-color: #000000;
+	position: relative;
+	background: #7F7F7F url("../images/asistencia-u1086-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1099
+{
+	z-index: 154;
+	width: 84px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 95px;
+	margin-top: 65px;
+	position: relative;
+}
+
+#u1100
+{
+	z-index: 155;
+	width: 84px;
+	border-color: #000000;
+	background-color: #3EA6DC;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1101-4
+{
+	z-index: 156;
+	width: 71px;
+	min-height: 16px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 7px;
+}
+
+#u1091-4
+{
+	z-index: 134;
+	width: 277px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 231px;
+}
+
+#ppu1036
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 885px;
+}
+
+#pu1036
+{
+	z-index: 73;
+	width: 0.01px;
+	position: relative;
+}
+
+#pu1037,#pu1038,#pu1039,#pu1040
+{
+	width: 0.01px;
+	padding-bottom: 21.90000000000009px;
+	position: relative;
+	z-index: 2;
+}
+
+#u1040
+{
+	z-index: 77;
+	width: 275px;
+	height: 210px;
+	border-color: #000000;
+	position: relative;
+	background: #7F7F7F url("../images/odonto-u1040-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1043-4
+{
+	z-index: 86;
+	width: 275px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u1054
+{
+	z-index: 112;
+	width: 84px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 96px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u1056
+{
+	z-index: 113;
+	width: 84px;
+	border-color: #000000;
+	background-color: #3EA6DC;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1055-4
+{
+	z-index: 114;
+	width: 71px;
+	min-height: 16px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 7px;
+}
+
+#ppu1087
+{
+	width: 0.01px;
+	margin-left: 9px;
+	margin-top: 75px;
+}
+
+#pu1087
+{
+	z-index: 124;
+	width: 0.01px;
+	position: relative;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+}
+
+#u1033,#u1081,#u1034,#u1082,#u1035,#u1085,#u1036,#u1087
+{
+	z-index: 0;
+	width: 274px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: transparent;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu1086,#pu1088
+{
+	width: 0.01px;
+	padding-bottom: 23.549999999999955px;
+	position: relative;
+	z-index: 2;
+}
+
+#u1088
+{
+	z-index: 125;
+	width: 275px;
+	height: 210px;
+	border-color: #000000;
+	position: relative;
+	background: #7F7F7F url("../images/laboratorio-u1088-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1102
+{
+	z-index: 160;
+	width: 84px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 95px;
+	margin-top: 65px;
+	position: relative;
+}
+
+#u1103
+{
+	z-index: 161;
+	width: 84px;
+	border-color: #000000;
+	background-color: #3EA6DC;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1104-4
+{
+	z-index: 162;
+	width: 71px;
+	min-height: 16px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 7px;
+}
+
+#u1092-4
+{
+	z-index: 138;
+	width: 275px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 231px;
+}
+
+#pu129
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 147px;
+}
+
+#u129
+{
+	z-index: 27;
+}
+
+#u129_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+}
+
+#u1283-18
+{
+	z-index: 32;
+	width: 366px;
+	min-height: 160px;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 117px;
+}
+
+#pu1325-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 103px;
+	margin-left: 1090px;
+}
+
+#u1325-4
+{
+	z-index: 61;
+	width: 210px;
+	min-height: 30px;
+}
+
+#u1323
+{
+	z-index: 54;
+	width: 114px;
+	margin-left: 96px;
+}
+
+#u1304
+{
+	z-index: 55;
+	width: 30px;
+	margin-right: -10000px;
+}
+
+#u1310
+{
+	z-index: 57;
+	width: 30px;
+	margin-right: -10000px;
+	left: 42px;
+}
+
+#u1315
+{
+	z-index: 59;
+	width: 30px;
+	margin-right: -10000px;
+	left: 85px;
+}
+
+#u1304_img,#u1310_img,#u1315_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u129-bw
+{
+	z-index: 27;
+	height: 193px;
+}
+
+#u1284-4
+{
+	z-index: 50;
+	width: 399px;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 117px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+	padding-top: 36px;
+	padding-bottom: 75px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
