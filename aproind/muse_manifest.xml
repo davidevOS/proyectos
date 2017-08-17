@@ -1,0 +1,137 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4043560183"/>
+    <file name="master_a-master.css" crc="372001825" ref="servicios:index:contactenos:productos"/>
+    <file name="servicios.css" crc="387528771" ref="servicios"/>
+    <file name="iefonts_servicios.css" crc="4025217595" ref="servicios"/>
+    <file name="index.css" crc="4060844283" ref="index"/>
+    <file name="iefonts_index.css" crc="4044998573" ref="index"/>
+    <file name="contactenos.css" crc="3976511953" ref="contactenos"/>
+    <file name="iefonts_contactenos.css" crc="4198456901" ref="contactenos"/>
+    <file name="productos.css" crc="711282" ref="productos"/>
+    <file name="iefonts_productos.css" crc="4225318445" ref="productos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contactenos:servicios:productos"/>
+    <file name="museutils.js" crc="4291592202" ref="index:contactenos:servicios:productos"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:contactenos:servicios:productos"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:contactenos:servicios:productos"/>
+    <file name="webpro.js" crc="3903299128" ref="index:contactenos:servicios:productos"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:servicios:productos"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:servicios:productos"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:servicios:productos"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:contactenos:servicios:productos"/>
+    <file name="form_check.php" crc="4225488401" ref="contactenos"/>
+    <file name="form_throttle.php" crc="425392939" ref="contactenos"/>
+    <file name="form-u814.php" crc="405462307" ref="contactenos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="productos"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="productos"/>
+  </folder>
+  <folder name="images">
+    <file name="inicio-favicon.ico" crc="449903408" ref="index"/>
+    <file name="aproind-contratipo.png" crc="306988878" ref="index:contactenos:servicios:productos"/>
+    <file name="cables1.jpg" crc="124893019" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="contactoresprincipal.jpg" crc="14391455" ref="index"/>
+    <file name="transformador.jpg" crc="4259513840" ref="index"/>
+    <file name="ingenieroelectrico.jpg" crc="235513170" ref="index"/>
+    <file name="termocupla.jpg" crc="321516673" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="boton-mas.png" crc="102449251" ref="index"/>
+    <file name="arrow-u285.png" crc="3960020586" ref="index"/>
+    <file name="marcaaguaio.png" crc="4140337010" ref="index:contactenos:servicios:productos"/>
+    <file name="contáctenos-favicon.ico" crc="449903408" ref="contactenos"/>
+    <file name="u820-17.png" crc="4238276285" ref="contactenos"/>
+    <file name="u820-17-r.png" crc="4143744440" ref="contactenos"/>
+    <file name="u820-17-m.png" crc="4289474104" ref="contactenos"/>
+    <file name="u820-17-fs.png" crc="239581820" ref="contactenos"/>
+    <file name="servicios-favicon.ico" crc="449903408" ref="servicios"/>
+    <file name="imagen1.jpg" crc="400880045" ref="servicios"/>
+    <file name="imagen2.jpg" crc="97279831" ref="servicios"/>
+    <file name="descarga.jpg" crc="3770151059" ref="servicios"/>
+    <file name="schneider.jpg" crc="214511964" ref="servicios"/>
+    <file name="siemens.jpg" crc="3989628227" ref="servicios"/>
+    <file name="logo-tesa.jpg" crc="3772493006" ref="servicios"/>
+    <file name="procables.jpg" crc="366653043" ref="servicios"/>
+    <file name="imagen4.jpg" crc="3911209722" ref="servicios"/>
+    <file name="images.jpg" crc="356047454" ref="servicios"/>
+    <file name="images (1).jpg" crc="4186998072" ref="servicios"/>
+    <file name="imagen5.jpg" crc="240136907" ref="servicios"/>
+    <file name="descarga (1)-u3541.jpg" crc="437043229" ref="servicios"/>
+    <file name="productos-favicon.ico" crc="449903408" ref="productos"/>
+    <file name="proteccion.jpg" crc="65458647" ref="productos"/>
+    <file name="proteccion2.jpg" crc="209823960" ref="productos"/>
+    <file name="contactor 1.jpg" crc="75599899" ref="productos"/>
+    <file name="interruptores automaticos-u2541-fr.jpg" crc="171562904" ref="productos"/>
+    <file name="arrancador psr-480-0-u2543-fr.jpg" crc="3918819503" ref="productos"/>
+    <file name="guardamotor-u3619-fr.jpg" crc="23364275" ref="productos"/>
+    <file name="reles electronicos de sobrecarga.jpg" crc="293435158" ref="productos"/>
+    <file name="contactores y reles termicos.jpg" crc="4052417322" ref="productos"/>
+    <file name="contactores de instalacion.jpg" crc="383863311" ref="productos"/>
+    <file name="interruptor monopolar.jpg" crc="173234763" ref="productos"/>
+    <file name="interruptor bipolar.jpg" crc="306742052" ref="productos"/>
+    <file name="interruptor tripolar.jpg" crc="3966855615" ref="productos"/>
+    <file name="interruptore y seccionadores.jpg" crc="4122507506" ref="productos"/>
+    <file name="arrancador psr-480-0320x320.jpg" crc="4033339462" ref="productos"/>
+    <file name="guardamotor442x359.jpg" crc="3825585257" ref="productos"/>
+    <file name="transformadores.jpg" crc="4213278034" ref="productos"/>
+    <file name="transformadores2.jpg" crc="422145921" ref="productos"/>
+    <file name="fyr transformador-u2797-fr.jpg" crc="3760713981" ref="productos"/>
+    <file name="transformador_de_distribucion-u2798-fr.jpg" crc="3818018916" ref="productos"/>
+    <file name="transformadores_ch_subestaciones_pad_mounted_pad01-u2796-fr.jpg" crc="4072441752" ref="productos"/>
+    <file name="transformador598x239.jpg" crc="415313107" ref="productos"/>
+    <file name="transformador_de_distribucion253x426.jpg" crc="251963754" ref="productos"/>
+    <file name="transformadores_ch_subestaciones_pad_mounted_pad01.jpg" crc="39725710" ref="productos"/>
+    <file name="medidores.jpg" crc="3770864635" ref="productos"/>
+    <file name="medidores2.jpg" crc="72591629" ref="productos"/>
+    <file name="contador de energia uso residencial-u2860-fr.jpg" crc="4141095336" ref="productos"/>
+    <file name="sl7000-u2861-fr.jpg" crc="3816159396" ref="productos"/>
+    <file name="ace3000_tipo260-u2859-fr.jpg" crc="4255199616" ref="productos"/>
+    <file name="contador de energia uso residencial147x176.jpg" crc="4044795528" ref="productos"/>
+    <file name="ace1000_tipo280.jpg" crc="507414464" ref="productos"/>
+    <file name="sl7000.jpg" crc="4118730869" ref="productos"/>
+    <file name="ace3000_tipo260.jpg" crc="375614339" ref="productos"/>
+    <file name="tableros.jpg" crc="4253288427" ref="productos"/>
+    <file name="tableros2.jpg" crc="122172863" ref="productos"/>
+    <file name="tableros de distribucion 2-u2900-fr.jpg" crc="3814447882" ref="productos"/>
+    <file name="celda-proteccion-u2899-fr.png" crc="3968985942" ref="productos"/>
+    <file name="armario de medidores -u2898-fr.jpg" crc="8850566" ref="productos"/>
+    <file name="tablero1a.jpg" crc="4088665100" ref="productos"/>
+    <file name="celda-proteccion.png" crc="467184660" ref="productos"/>
+    <file name="armario de medidores .jpg" crc="280312374" ref="productos"/>
+    <file name="cables.jpg" crc="3957036769" ref="productos"/>
+    <file name="cables2.jpg" crc="358189166" ref="productos"/>
+    <file name="cables electricos -u3117-fr.jpg" crc="21841672" ref="productos"/>
+    <file name="cable thnn-u3119-fr.jpg" crc="282775728" ref="productos"/>
+    <file name="fibraoptica-u3118-fr.jpg" crc="82751187" ref="productos"/>
+    <file name="cables electricos .jpg" crc="3950260456" ref="productos"/>
+    <file name="cable thnn500x210.jpg" crc="482837758" ref="productos"/>
+    <file name="hubbell_speed_channel_wiring_metacom.jpg" crc="308063294" ref="productos"/>
+    <file name="fibraoptica.jpg" crc="3933628567" ref="productos"/>
+    <file name="motores.jpg" crc="264379500" ref="productos"/>
+    <file name="motores2.jpg" crc="465763171" ref="productos"/>
+    <file name="motores-electricos-asincronos-trifasicos-6239-2380161323x241.jpg" crc="54235165" ref="productos"/>
+    <file name="motorreductores-electricos-tornillo-sin-fin--u3149-fr.jpg" crc="4085546165" ref="productos"/>
+    <file name="servomotores-electricos-u3148-fr.jpg" crc="148992971" ref="productos"/>
+    <file name="motores-electricos-asincronos-trifasicos-6239-2380161396x295.jpg" crc="4222871028" ref="productos"/>
+    <file name="motorreductores-electricos-tornillo-sin-fin-454x294.jpg" crc="4012687080" ref="productos"/>
+    <file name="servomotores-electricos461x461.jpg" crc="4056453283" ref="productos"/>
+    <file name="instrumentacion.jpg" crc="119931106" ref="productos"/>
+    <file name="instrumentacion2.jpg" crc="331554752" ref="productos"/>
+    <file name="pirometros.jpg" crc="3948616147" ref="productos"/>
+    <file name="automatas-programables-compactos-12225-2810317-u3880-fr.jpg" crc="4277289124" ref="productos"/>
+    <file name="variador de velocidad 1)-u3877-fr.jpg" crc="367908261" ref="productos"/>
+    <file name="produtos_05_02.jpg" crc="3946347388" ref="productos"/>
+    <file name="automatas-programables-compactos-12225-2810317555x304.jpg" crc="529658783" ref="productos"/>
+    <file name="variadores (2).jpg" crc="4076418132" ref="productos"/>
+    <file name="equipos.jpg" crc="4218264965" ref="productos"/>
+    <file name="equipos2.jpg" crc="3857852452" ref="productos"/>
+    <file name="equipos de señalizacion y control (2)-u3211-fr.jpg" crc="3973961269" ref="productos"/>
+    <file name="download-u3211-a-fr.jpg" crc="4043106981" ref="productos"/>
+    <file name="pulsadores.jpg" crc="108479442" ref="productos"/>
+  </folder>
+  <file name="index.html" crc="3796306584" mt="1503007840897" redirect="true"/>
+  <file name="contactenos.html" crc="4228289408" mt="1503007840913" redirect="true"/>
+  <file name="servicios.html" crc="267794495" mt="1503007840913" redirect="true"/>
+  <file name="productos.html" crc="4032021219" mt="1503007840913" redirect="true"/>
+</manifest>

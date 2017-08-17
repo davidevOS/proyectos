@@ -1,0 +1,2803 @@
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1309.8500000000001px;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -5px;
+}
+
+#u69
+{
+	z-index: 2;
+	width: 1160px;
+	padding-bottom: 4px;
+	left: -100px;
+}
+
+#u90
+{
+	z-index: 3;
+	width: 258px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 122px;
+}
+
+#u90_clip
+{
+	width: 258px;
+	height: 83px;
+}
+
+#u90_img
+{
+	margin: -124px -87px -130px -91px;
+}
+
+#menuu108
+{
+	z-index: 5;
+	width: 446px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 592px;
+}
+
+#u126
+{
+	width: 110px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u132-4
+{
+	width: 110px;
+	min-height: 17px;
+	margin-right: -10000px;
+}
+
+#u129:hover #u132-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u151
+{
+	width: 110px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 112px;
+}
+
+#u154-4
+{
+	width: 110px;
+	min-height: 17px;
+	margin-right: -10000px;
+}
+
+#u129.MuseMenuActive #u132-4,#u152:hover #u154-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2296
+{
+	width: 110px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 224px;
+}
+
+#u2301-4
+{
+	width: 110px;
+	min-height: 17px;
+	margin-right: -10000px;
+}
+
+#u152.MuseMenuActive #u154-4,#u2299:hover #u2301-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u158
+{
+	width: 110px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 336px;
+}
+
+#u129,#u152,#u2299,#u159
+{
+	width: 110px;
+}
+
+#u160-4
+{
+	width: 110px;
+	min-height: 17px;
+	margin-right: -10000px;
+}
+
+#u2299.MuseMenuActive #u2301-4,#u159:hover #u160-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u159.MuseMenuActive #u160-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#pu3987
+{
+	width: 0.01px;
+	margin-left: 27px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u3987
+{
+	z-index: 41;
+	width: 200px;
+	min-height: 100px;
+	margin-right: -10000px;
+	margin-top: 218px;
+	left: 712px;
+}
+
+#accordionu2310
+{
+	z-index: 42;
+	width: 994px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2326
+{
+	z-index: 43;
+	width: 994px;
+	position: relative;
+}
+
+#u2327-3
+{
+	z-index: 44;
+	width: 984px;
+	min-height: 26px;
+	border-color: #FFFFFF;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: #DEDEDE url("../images/proteccion.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2327-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/proteccion2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2327-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/proteccion2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2327-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #FFFFFF url("../images/proteccion2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2328
+{
+	z-index: 47;
+	width: 992px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 27px;
+	position: relative;
+}
+
+#pamphletu2509
+{
+	z-index: 48;
+	width: 0.01px;
+	height: 322px;
+	padding-bottom: 175px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 60px;
+}
+
+#u2540
+{
+	z-index: 49;
+	width: 81px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2542
+{
+	position: absolute;
+	width: 79px;
+	height: 79px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background: transparent url("../images/contactor%201.jpg") no-repeat center center;
+}
+
+#u2542:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 79px;
+	height: 79px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2542.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	background-color: transparent;
+	width: 79px;
+	height: 79px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2541
+{
+	position: absolute;
+	width: 79px;
+	height: 79px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+	top: 80px;
+	background: transparent url("../images/interruptores%20automaticos-u2541-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2541:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 79px;
+	height: 79px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2541.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	background-color: transparent;
+	width: 79px;
+	height: 79px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2543
+{
+	position: absolute;
+	width: 79px;
+	height: 79px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	top: 160px;
+	background: transparent url("../images/arrancador%20psr-480-0-u2543-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2543:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	width: 79px;
+	height: 79px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u3619
+{
+	position: absolute;
+	width: 79px;
+	height: 79px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	top: 240px;
+	background: transparent url("../images/guardamotor-u3619-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3619:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	width: 79px;
+	height: 79px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2543.PamphletThumbSelected,#u3619.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	width: 79px;
+	height: 79px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2517
+{
+	position: absolute;
+	width: 645px;
+	left: 80px;
+}
+
+#u2517popup
+{
+	z-index: 54;
+}
+
+#u2528
+{
+	z-index: 55;
+	width: 643px;
+	height: 496px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#ppu2531
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 26px;
+}
+
+#pu2531
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u2531
+{
+	z-index: 64;
+	width: 118px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u2533
+{
+	z-index: 66;
+	width: 120px;
+	position: relative;
+	margin-right: -10000px;
+	left: 176px;
+}
+
+#u2529
+{
+	z-index: 68;
+	width: 195px;
+	margin-left: 49px;
+	top: -8px;
+	margin-bottom: -8px;
+	position: relative;
+}
+
+#u2535-8
+{
+	z-index: 56;
+	width: 193px;
+	min-height: 314px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 431px;
+}
+
+#u2535-5
+{
+	font-family: lato, sans-serif;
+	font-weight: 300;
+}
+
+#u2518
+{
+	z-index: 70;
+	width: 643px;
+	height: 496px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#ppu2526
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 9px;
+}
+
+#pu2526
+{
+	width: 0.01px;
+	margin-left: 10px;
+	position: relative;
+}
+
+#u2526
+{
+	z-index: 71;
+	width: 112px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2521
+{
+	z-index: 73;
+	width: 151px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 85px;
+}
+
+#u2521_img
+{
+	padding-right: 1px;
+}
+
+#u2523
+{
+	z-index: 75;
+	width: 117px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 212px;
+}
+
+#u2519
+{
+	z-index: 77;
+	width: 349px;
+	top: -5px;
+	margin-bottom: -5px;
+	position: relative;
+}
+
+#u2525-16
+{
+	z-index: 79;
+	width: 172px;
+	min-height: 264px;
+	line-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 61px;
+	left: 416px;
+}
+
+#u2536
+{
+	z-index: 95;
+	width: 565px;
+	height: 360px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 29px 47px 107px 31px;
+}
+
+#u2539-4
+{
+	z-index: 96;
+	width: 270px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 155px;
+	position: relative;
+}
+
+#pu3561
+{
+	width: 0.01px;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u3561
+{
+	z-index: 100;
+	width: 319px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3564-10
+{
+	z-index: 102;
+	width: 238px;
+	min-height: 247px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 45px;
+	left: 327px;
+}
+
+#u3620
+{
+	z-index: 112;
+	width: 496px;
+	height: 443px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 35px 67px 18px 80px;
+}
+
+#u3638-4
+{
+	z-index: 115;
+	width: 240px;
+	min-height: 43px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 111px;
+	position: relative;
+}
+
+#pu3635
+{
+	width: 0.01px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u3635
+{
+	z-index: 113;
+	width: 442px;
+	position: relative;
+	margin-right: -10000px;
+	left: 7px;
+}
+
+#u3639-4
+{
+	z-index: 119;
+	width: 496px;
+	min-height: 98px;
+	line-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 292px;
+}
+
+#u2715
+{
+	z-index: 123;
+	width: 994px;
+	position: relative;
+}
+
+#u2716-3
+{
+	z-index: 124;
+	width: 984px;
+	min-height: 26px;
+	border-color: #FFFFFF;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: #DEDEDE url("../images/transformadores.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2716-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/transformadores2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2716-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/transformadores2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2716-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #FFFFFF url("../images/transformadores2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2717
+{
+	z-index: 127;
+	width: 992px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 28px;
+	position: relative;
+}
+
+#pamphletu2788
+{
+	z-index: 128;
+	width: 0.01px;
+	height: 137px;
+	padding-bottom: 471px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 44px;
+	left: 63px;
+}
+
+#u2795
+{
+	z-index: 129;
+	width: 61px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2797
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background: transparent url("../images/fyr%20transformador-u2797-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2797:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2798
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+	top: 45px;
+	background: transparent url("../images/transformador_de_distribucion-u2798-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2798:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2796
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+	top: 90px;
+	background: transparent url("../images/transformadores_ch_subestaciones_pad_mounted_pad01-u2796-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2796:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2799
+{
+	position: absolute;
+	width: 670px;
+	left: 60px;
+}
+
+#u2799popup
+{
+	z-index: 133;
+}
+
+#u2800
+{
+	z-index: 134;
+	width: 604px;
+	height: 464px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 30px 37px 113px 27px;
+}
+
+#u2803-4
+{
+	z-index: 135;
+	width: 313px;
+	min-height: 23px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 145px;
+	position: relative;
+}
+
+#u3640
+{
+	z-index: 139;
+	width: 598px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u3659-12
+{
+	z-index: 141;
+	width: 582px;
+	min-height: 132px;
+	margin-left: 22px;
+	margin-top: 46px;
+	position: relative;
+}
+
+#u2804
+{
+	z-index: 153;
+	width: 624px;
+	height: 489px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 20px 17px 98px 27px;
+}
+
+#u3382-4
+{
+	z-index: 156;
+	width: 284px;
+	min-height: 26px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 151px;
+	position: relative;
+}
+
+#pu2805
+{
+	width: 0.01px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u2805
+{
+	z-index: 154;
+	width: 252px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3660-22
+{
+	z-index: 160;
+	width: 306px;
+	min-height: 176px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 293px;
+}
+
+#u3661-4
+{
+	z-index: 182;
+	width: 624px;
+	min-height: 20px;
+	line-height: 17px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u2807
+{
+	z-index: 186;
+	width: 497px;
+	height: 533px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 34px 74px 40px 97px;
+}
+
+#u2808-4
+{
+	z-index: 187;
+	width: 295px;
+	min-height: 30px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 94px;
+	position: relative;
+}
+
+#u3679
+{
+	z-index: 191;
+	width: 458px;
+	margin-left: 19px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u3692-8
+{
+	z-index: 193;
+	width: 497px;
+	min-height: 94px;
+	margin-top: 34px;
+	position: relative;
+}
+
+#u2322
+{
+	z-index: 201;
+	width: 994px;
+	position: relative;
+}
+
+#u2325-3
+{
+	z-index: 202;
+	width: 984px;
+	min-height: 26px;
+	border-color: #FFFFFF;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: #DEDEDE url("../images/medidores.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2325-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/medidores2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2325-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/medidores2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2325-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #FFFFFF url("../images/medidores2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2323
+{
+	z-index: 205;
+	width: 992px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 34px;
+	position: relative;
+}
+
+#pamphletu2837
+{
+	z-index: 206;
+	width: 0.01px;
+	height: 139px;
+	padding-bottom: 410px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: 22px;
+}
+
+#u2858
+{
+	z-index: 207;
+	width: 61px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+}
+
+#u2860
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background: transparent url("../images/contador%20de%20energia%20uso%20residencial-u2860-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2860:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2861
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+	top: 90px;
+	background: transparent url("../images/sl7000-u2861-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2861:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2859
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	top: 45px;
+	background: transparent url("../images/ace3000_tipo260-u2859-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2859:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2838
+{
+	position: absolute;
+	width: 773px;
+	left: 58px;
+}
+
+#u2838popup
+{
+	z-index: 211;
+}
+
+#u2839
+{
+	z-index: 212;
+	width: 771px;
+	height: 548px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#pu3246
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 47px;
+}
+
+#u3246
+{
+	z-index: 261;
+	width: 147px;
+	margin-left: 22px;
+	position: relative;
+}
+
+#u2842
+{
+	z-index: 259;
+	width: 200px;
+	margin-top: 34px;
+	position: relative;
+}
+
+#u2844-46
+{
+	z-index: 213;
+	width: 451px;
+	min-height: 493px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 292px;
+}
+
+#u2844-3,#u2844-37,#u2844-38,#u2844-39,#u2844-40
+{
+	text-align: justify;
+	font-weight: bold;
+}
+
+#u2535-3,#u2844-41,#u2844-42
+{
+	font-weight: bold;
+}
+
+#u2845
+{
+	z-index: 263;
+	width: 771px;
+	height: 548px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2847
+{
+	z-index: 288;
+	width: 324px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 60px;
+}
+
+#u2846-24
+{
+	z-index: 264;
+	width: 332px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 57px;
+	left: 399px;
+}
+
+#u2849
+{
+	z-index: 290;
+	width: 771px;
+	height: 548px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2850
+{
+	z-index: 311;
+	width: 253px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 127px;
+	left: 60px;
+}
+
+#u2850_clip
+{
+	overflow: hidden;
+	width: 253px;
+	height: 215px;
+}
+
+#u2850_img
+{
+	margin: -4px -28px 4px 28px;
+}
+
+#u2852-20
+{
+	z-index: 291;
+	width: 304px;
+	min-height: 268px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 120px;
+	left: 410px;
+}
+
+#u2535-2,#u3564-2,#u2844-2,#u2846-2,#u2852-2
+{
+	line-height: 24px;
+}
+
+#u2852-3
+{
+	text-align: justify;
+}
+
+#u2373
+{
+	z-index: 313;
+	width: 994px;
+	position: relative;
+}
+
+#u2376-3
+{
+	z-index: 314;
+	width: 984px;
+	min-height: 26px;
+	border-color: #FFFFFF;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: #DEDEDE url("../images/tableros.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2376-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/tableros2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2376-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/tableros2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2376-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #FFFFFF url("../images/tableros2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2374
+{
+	z-index: 317;
+	width: 992px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 24px;
+	position: relative;
+}
+
+#pamphletu2896
+{
+	z-index: 318;
+	width: 0.01px;
+	height: 136px;
+	padding-bottom: 380px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 72px;
+}
+
+#u2897
+{
+	z-index: 319;
+	width: 61px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2900
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background: #DEDEDE url("../images/tableros%20de%20distribucion%202-u2900-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2900:hover
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: #DEDEDE url("../images/tableros%20de%20distribucion%202-u2900-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2900.PamphletThumbSelected
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../images/tableros%20de%20distribucion%202-u2900-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2899
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+	top: 45px;
+	background: #C4C4C4 url("../images/celda-proteccion-u2899-fr.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2899:hover
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: #C4C4C4 url("../images/celda-proteccion-u2899-fr.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2899.PamphletThumbSelected
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../images/celda-proteccion-u2899-fr.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2898
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	top: 90px;
+	background: transparent url("../images/armario%20de%20medidores%20-u2898-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2898:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2906popup
+{
+	z-index: 323;
+}
+
+#u2910
+{
+	z-index: 324;
+	width: 517px;
+	height: 407px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 25px 69px 83px 57px;
+}
+
+#u3244-4
+{
+	z-index: 325;
+	width: 280px;
+	min-height: 28px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 117px;
+	position: relative;
+}
+
+#pu3716
+{
+	width: 0.01px;
+	margin-top: 43px;
+	position: relative;
+}
+
+#u3716
+{
+	z-index: 329;
+	width: 252px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3761-16
+{
+	z-index: 331;
+	width: 238px;
+	min-height: 336px;
+	line-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	left: 279px;
+}
+
+#u2913
+{
+	z-index: 347;
+	width: 386px;
+	height: 382px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 30px 141px 103px 116px;
+}
+
+#u3019-4
+{
+	z-index: 350;
+	width: 220px;
+	min-height: 27px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 83px;
+	position: relative;
+}
+
+#u2994
+{
+	z-index: 348;
+	width: 386px;
+	margin-top: 85px;
+	position: relative;
+}
+
+#u2907
+{
+	z-index: 354;
+	width: 494px;
+	height: 431px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 31px 59px 53px 90px;
+}
+
+#u3245-4
+{
+	z-index: 357;
+	width: 252px;
+	min-height: 27px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 113px;
+	position: relative;
+}
+
+#u2908
+{
+	z-index: 355;
+	width: 493px;
+	margin-top: 34px;
+	position: relative;
+}
+
+#u2386
+{
+	z-index: 361;
+	width: 994px;
+	position: relative;
+}
+
+#u2387-3
+{
+	z-index: 362;
+	width: 984px;
+	min-height: 26px;
+	border-color: #FFFFFF;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: #DEDEDE url("../images/cables.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2387-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/cables2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2387-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/cables2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2387-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #FFFFFF url("../images/cables2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2388
+{
+	z-index: 365;
+	width: 992px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 52px;
+	position: relative;
+}
+
+#pamphletu3111
+{
+	z-index: 366;
+	width: 0.01px;
+	height: 136px;
+	padding-bottom: 382px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 72px;
+}
+
+#u3116
+{
+	z-index: 367;
+	width: 61px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3117
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background: transparent url("../images/cables%20electricos%20-u3117-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3117:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u3119
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+	top: 45px;
+	background: transparent url("../images/cable%20thnn-u3119-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3119:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u3118
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	top: 90px;
+	background: transparent url("../images/fibraoptica-u3118-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3118:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u3127popup
+{
+	z-index: 371;
+}
+
+#u3135
+{
+	z-index: 372;
+	width: 409px;
+	height: 393px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 35px 129px 89px 105px;
+}
+
+#u3252-4
+{
+	z-index: 375;
+	width: 276px;
+	min-height: 23px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 76px;
+	position: relative;
+}
+
+#u3249
+{
+	z-index: 373;
+	width: 409px;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u3128
+{
+	z-index: 379;
+	width: 500px;
+	height: 263px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 92px 68px 162px 75px;
+}
+
+#u3131-4
+{
+	z-index: 380;
+	width: 220px;
+	min-height: 27px;
+	line-height: 24px;
+	margin-left: 112px;
+	position: relative;
+}
+
+#u3259
+{
+	z-index: 384;
+	width: 500px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u3132
+{
+	z-index: 386;
+	width: 643px;
+	height: 517px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u3277-4
+{
+	z-index: 387;
+	width: 375px;
+	min-height: 35px;
+	text-align: center;
+	line-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 142px;
+}
+
+#u3287
+{
+	z-index: 391;
+	width: 390px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 124px;
+}
+
+#u3294
+{
+	z-index: 393;
+	width: 175px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 309px;
+	left: 319px;
+}
+
+#u2389
+{
+	z-index: 395;
+	width: 994px;
+	position: relative;
+}
+
+#u2390-3
+{
+	z-index: 396;
+	width: 984px;
+	min-height: 26px;
+	border-color: #FFFFFF;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: #DEDEDE url("../images/motores.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2390-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/motores2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2390-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/motores2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2390-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #FFFFFF url("../images/motores2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2391
+{
+	z-index: 399;
+	width: 992px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 50px;
+	position: relative;
+}
+
+#pamphletu3141
+{
+	z-index: 400;
+	width: 0.01px;
+	height: 33px;
+	padding-bottom: 540px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 41px;
+	left: 72px;
+}
+
+#u3146
+{
+	z-index: 401;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 17px;
+}
+
+#u3147
+{
+	position: absolute;
+	width: 59px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	padding-bottom: 12px;
+	top: -16px;
+	left: -17px;
+	background: #DEDEDE url("../images/motores-electricos-asincronos-trifasicos-6239-2380161323x241.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3147:hover
+{
+	border-color: #999999;
+	width: 59px;
+	min-height: 0px;
+	margin: 0px;
+	background: #DEDEDE url("../images/motores-electricos-asincronos-trifasicos-6239-2380161323x241.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3147.PamphletThumbSelected
+{
+	border-color: #999999;
+	width: 59px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../images/motores-electricos-asincronos-trifasicos-6239-2380161323x241.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3426-3
+{
+	z-index: 403;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 16px;
+}
+
+#u3149
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+	top: 29px;
+	left: -17px;
+	background: transparent url("../images/motorreductores-electricos-tornillo-sin-fin--u3149-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3149:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u3148
+{
+	position: absolute;
+	width: 57px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	top: 74px;
+	left: -17px;
+	background: transparent url("../images/servomotores-electricos-u3148-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3148:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	width: 57px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u3148.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	width: 57px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u3157
+{
+	position: absolute;
+	width: 746px;
+	left: 60px;
+}
+
+#u3157popup
+{
+	z-index: 408;
+}
+
+#u3165
+{
+	z-index: 409;
+	width: 433px;
+	height: 396px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 64px 156px 112px 155px;
+}
+
+#u3306-4
+{
+	z-index: 412;
+	width: 433px;
+	min-height: 36px;
+	text-align: center;
+	line-height: 24px;
+	position: relative;
+}
+
+#u3303
+{
+	z-index: 410;
+	width: 396px;
+	margin-left: 19px;
+	margin-top: 54px;
+	position: relative;
+}
+
+#u3158
+{
+	z-index: 416;
+	width: 454px;
+	height: 357px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 74px 145px 141px;
+}
+
+#u3161-4
+{
+	z-index: 417;
+	width: 305px;
+	min-height: 27px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 74px;
+	position: relative;
+}
+
+#u3310
+{
+	z-index: 421;
+	width: 454px;
+	margin-top: 35px;
+	position: relative;
+}
+
+#u3162
+{
+	z-index: 423;
+	width: 461px;
+	height: 504px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 26px 142px 42px 141px;
+}
+
+#u3330-4
+{
+	z-index: 426;
+	width: 342px;
+	min-height: 43px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 60px;
+	position: relative;
+}
+
+#u3322
+{
+	z-index: 424;
+	width: 461px;
+	position: relative;
+}
+
+#u2392
+{
+	z-index: 430;
+	width: 994px;
+	position: relative;
+}
+
+#u2394-3
+{
+	z-index: 431;
+	width: 984px;
+	min-height: 26px;
+	border-color: #FFFFFF;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: #DEDEDE url("../images/instrumentacion.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2394-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/instrumentacion2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2394-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/instrumentacion2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2394-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #FFFFFF url("../images/instrumentacion2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2393
+{
+	z-index: 434;
+	width: 992px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 42px;
+	position: relative;
+}
+
+#pamphletu3873
+{
+	z-index: 435;
+	width: 0.01px;
+	height: 33px;
+	padding-bottom: 547px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 70px;
+}
+
+#u3876
+{
+	z-index: 436;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 19px;
+}
+
+#u3878
+{
+	position: absolute;
+	width: 59px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	padding-bottom: 12px;
+	top: -16px;
+	left: -17px;
+	background: #DEDEDE url("../images/pirometros.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3878:hover
+{
+	border-color: #999999;
+	width: 59px;
+	min-height: 0px;
+	margin: 0px;
+	background: #DEDEDE url("../images/pirometros.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3878.PamphletThumbSelected
+{
+	border-color: #999999;
+	width: 59px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../images/pirometros.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3879-3
+{
+	z-index: 438;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 16px;
+}
+
+#u3880
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+	top: 29px;
+	left: -17px;
+	background: transparent url("../images/automatas-programables-compactos-12225-2810317-u3880-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3880:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2797.PamphletThumbSelected,#u2798.PamphletThumbSelected,#u2796.PamphletThumbSelected,#u2860.PamphletThumbSelected,#u2861.PamphletThumbSelected,#u3117.PamphletThumbSelected,#u3119.PamphletThumbSelected,#u3149.PamphletThumbSelected,#u3880.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	background-color: transparent;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u3877
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	top: 74px;
+	left: -19px;
+	background: transparent url("../images/variador%20de%20velocidad%201)-u3877-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3877:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u2859.PamphletThumbSelected,#u2898.PamphletThumbSelected,#u3118.PamphletThumbSelected,#u3877.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u3890
+{
+	position: absolute;
+	width: 770px;
+	left: 62px;
+}
+
+#u3890popup
+{
+	z-index: 443;
+}
+
+#u3891
+{
+	z-index: 444;
+	width: 565px;
+	height: 380px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 31px 102px 168px 101px;
+}
+
+#u3894-4
+{
+	z-index: 445;
+	width: 433px;
+	min-height: 36px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 66px;
+	position: relative;
+}
+
+#u3912
+{
+	z-index: 449;
+	width: 565px;
+	margin-top: 41px;
+	position: relative;
+}
+
+#u3899
+{
+	z-index: 451;
+	width: 664px;
+	height: 549px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	padding-left: 52px;
+	padding-top: 30px;
+	padding-right: 52px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u3902-5
+{
+	z-index: 452;
+	width: 376px;
+	min-height: 27px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 144px;
+	position: relative;
+}
+
+#u3920
+{
+	z-index: 457;
+	width: 555px;
+	margin-left: 54px;
+	margin-top: 50px;
+	position: relative;
+}
+
+#u3925-8
+{
+	z-index: 459;
+	width: 664px;
+	min-height: 141px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u3564-5,#u3564-6,#u3564-8,#u3659-2,#u3659-3,#u3659-5,#u3659-7,#u3659-9,#u3660-2,#u3660-4,#u3660-6,#u3660-8,#u3660-9,#u3660-11,#u3660-13,#u3660-15,#u3660-17,#u3660-18,#u3660-19,#u3692-2,#u3692-3,#u3692-5,#u2844-5,#u2844-7,#u2844-9,#u2844-11,#u2844-13,#u2844-15,#u2844-17,#u2844-19,#u2844-21,#u2844-23,#u2844-24,#u2844-25,#u2844-26,#u2844-28,#u2844-30,#u2844-32,#u2844-34,#u2844-36,#u2846-5,#u2846-6,#u2846-8,#u2846-9,#u2846-11,#u2846-13,#u2846-14,#u2846-16,#u2846-18,#u2846-20,#u2852-5,#u2852-7,#u2852-9,#u2852-11,#u2852-13,#u2852-15,#u2852-17,#u3925-2,#u3925-3,#u3925-5
+{
+	line-height: 17px;
+}
+
+#u3895
+{
+	z-index: 467;
+	width: 640px;
+	height: 394px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 26px 64px 159px;
+}
+
+#u3898-4
+{
+	z-index: 468;
+	width: 342px;
+	min-height: 43px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 149px;
+	position: relative;
+}
+
+#u3933
+{
+	z-index: 472;
+	width: 640px;
+	margin-top: 51px;
+	position: relative;
+}
+
+#u2395
+{
+	z-index: 474;
+	width: 994px;
+	position: relative;
+}
+
+#u2396-3
+{
+	z-index: 475;
+	width: 984px;
+	min-height: 26px;
+	border-color: #FFFFFF;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: #DEDEDE url("../images/equipos.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2396-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/equipos2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2396-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #F2F2F2 url("../images/equipos2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2396-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 26px;
+	margin: 0px;
+	background: #FFFFFF url("../images/equipos2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2327-3.AccordionPanelTabOpen p,#u2716-3.AccordionPanelTabOpen p,#u2325-3.AccordionPanelTabOpen p,#u2376-3.AccordionPanelTabOpen p,#u2387-3.AccordionPanelTabOpen p,#u2390-3.AccordionPanelTabOpen p,#u2394-3.AccordionPanelTabOpen p,#u2396-3.AccordionPanelTabOpen p
+{
+	color: #4F4F4F;
+	visibility: inherit;
+}
+
+#u2397
+{
+	z-index: 478;
+	width: 992px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 89px;
+	position: relative;
+}
+
+#pamphletu3205
+{
+	z-index: 479;
+	width: 0.01px;
+	height: 46px;
+	padding-bottom: 461px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 49px;
+	left: 73px;
+}
+
+#u3210
+{
+	z-index: 480;
+	width: 61px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3211
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background: transparent url("../images/equipos%20de%20se%c3%b1alizacion%20y%20control%20(2)-u3211-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3211:hover
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../images/equipos%20de%20se%c3%b1alizacion%20y%20control%20(2)-u3211-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u3211.PamphletThumbSelected
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../images/download-u3211-a-fr.jpg") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2906,#u3127,#u3221
+{
+	position: absolute;
+	width: 645px;
+	left: 60px;
+}
+
+#u3221popup
+{
+	z-index: 482;
+}
+
+#u3229
+{
+	z-index: 483;
+	width: 599px;
+	height: 416px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	padding: 46px 22px 44px;
+}
+
+#u3372-4
+{
+	z-index: 484;
+	width: 284px;
+	min-height: 44px;
+	text-align: center;
+	line-height: 24px;
+	margin-left: 141px;
+	position: relative;
+}
+
+#pu3407
+{
+	width: 0.01px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u3407
+{
+	z-index: 488;
+	width: 350px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3764-21
+{
+	z-index: 490;
+	width: 234px;
+	min-height: 107px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 61px;
+	left: 365px;
+}
+
+#u3764,#u3764-3,#u3764-4,#u3764-6,#u3764-7,#u3764-9,#u3764-10,#u3764-12,#u3764-13,#u3764-15,#u3764-16,#u3764-18
+{
+	text-align: center;
+	line-height: 17px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton,.AccordionPanelTab /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#pu71
+{
+	width: 0.01px;
+	left: -100px;
+	margin-top: 104px;
+	position: relative;
+}
+
+#u71
+{
+	z-index: 30;
+	width: 1160px;
+	padding-bottom: 43px;
+	margin-right: -10000px;
+}
+
+#u69_align_to_page,#u71_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u278-4
+{
+	z-index: 31;
+	width: 289px;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 122px;
+}
+
+#u457-4
+{
+	z-index: 35;
+	width: 148px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 890px;
+}
+
+#u944
+{
+	z-index: 39;
+	width: 122px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 886px;
+}
+
+body
+{
+	padding-top: 5px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
