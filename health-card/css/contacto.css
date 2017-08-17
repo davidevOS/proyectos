@@ -468,19 +468,21 @@
 
 #widgetu1259.non-empty-st #u1261-4 *
 {
-	color: #4F4F4F;
+	color: #266C8D;
 	font-style: normal;
 }
 
+
+
 #widgetu1259:hover #u1261-4 *
 {
-	color: #4F4F4F;
+	color: #266C8D;
 	font-style: normal;
 }
 
 #widgetu1259.focus-st #u1261-4 *
 {
-	color: #4F4F4F;
+	color: #266C8D;
 	font-style: normal;
 }
 
@@ -584,19 +586,19 @@
 
 #widgetu1265.non-empty-st #u1267-4 *
 {
-	color: #4F4F4F;
+	color: #266C8D;
 	font-style: normal;
 }
 
 #widgetu1265:hover #u1267-4 *
 {
-	color: #4F4F4F;
+	color: #266C8D;
 	font-style: normal;
 }
 
 #widgetu1265.focus-st #u1267-4 *
 {
-	color: #4F4F4F;
+	color: #266C8D;
 	font-style: normal;
 }
 
@@ -836,19 +838,19 @@
 
 #widgetu1255.non-empty-st #u1257-4 *
 {
-	color: #4F4F4F;
+	color: #266C8D;
 	font-style: normal;
 }
 
 #widgetu1255:hover #u1257-4 *
 {
-	color: #4F4F4F;
+	color: #266C8D;
 	font-style: normal;
 }
 
 #widgetu1255.focus-st #u1257-4 *
 {
-	color: #4F4F4F;
+	color: #266C8D;
 	font-style: normal;
 }
 
@@ -893,7 +895,7 @@
 	background-color: transparent;
 	line-height: 48px;
 	font-size: 40px;
-	color: #2F7EC0;
+	color: #266C8D;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	position: relative;

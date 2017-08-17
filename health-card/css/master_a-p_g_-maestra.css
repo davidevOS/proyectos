@@ -3,7 +3,7 @@
 	background-color: transparent;
 	line-height: 46px;
 	font-size: 38px;
-	color: #2F7EC0;
+	color: #266C8D;
 	font-family: pt-sans, sans-serif;
 	font-weight: 700;
 	font-style: italic;
@@ -32,10 +32,12 @@
 
 #u85.MuseMenuActive
 {
-	background-color: #2F7EC0;
-	background-color: rgba(47, 126, 192, 1);
-	-pie-background: rgba(47, 126, 192, 1);
+	background-color: #266C8D;
+	background-color: rgb(38,108,141);
+	-pie-background: rgb(38,108,141);
 }
+
+
 
 #u86-4
 {
@@ -85,9 +87,9 @@
 
 #u99.MuseMenuActive
 {
-	background-color: #2F7EC0;
-	background-color: rgba(47, 126, 192, 1);
-	-pie-background: rgba(47, 126, 192, 1);
+	background-color: #266C8D;
+	background-color: rgb(38,108,141);
+	-pie-background: rgb(38,108,141);
 }
 
 #u101-4
@@ -138,9 +140,9 @@
 
 #u112.MuseMenuActive
 {
-	background-color: #2F7EC0;
-	background-color: rgba(47, 126, 192, 1);
-	-pie-background: rgba(47, 126, 192, 1);
+	background-color: #266C8D;
+	background-color: rgb(38,108,141);
+	-pie-background: rgb(38,108,141);
 }
 
 #u115-4
@@ -191,10 +193,12 @@
 
 #u125.MuseMenuActive
 {
-	background-color: #2F7EC0;
-	background-color: rgba(47, 126, 192, 1);
-	-pie-background: rgba(47, 126, 192, 1);
+	background-color: #266C8D;
+	background-color: rgb(38,108,141);
+	-pie-background: rgb(38,108,141);
 }
+
+
 
 #u126-4
 {
@@ -236,7 +240,7 @@
 #u129
 {
 	border-color: #000000;
-	background-color: #2F7EC3;
+	background-color: #266C8D;
 }
 
 #u129_align_to_page
@@ -266,12 +270,18 @@
 	position: relative;
 }
 
+
 #menuu74,#u1323
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
+    
+}
+
+#menuu74 {
+    top: 30px;
 }
 
 #u1304,#u1310,#u1315

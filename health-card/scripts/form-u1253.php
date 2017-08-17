@@ -13,8 +13,8 @@ $form = array(
 	'heading' => 'Envío de nuevo formulario',
 	'success_redirect' => '',
 	'email' => array(
-		'from' => 'davidgaleano217@gmail.com',
-		'to' => 'davidgaleano217@gmail.com'
+		'from' => 'info@healthcardelite.com',
+		'to' => 'info@healthcardelite.com'
 	),
 	'fields' => array(
 		'custom_U1259' => array(
