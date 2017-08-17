@@ -1,0 +1,61 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_b-master.css" crc="421197459" ref="nosotros:contáctenos:proyectos:servicios"/>
+    <file name="master_a-master.css" crc="3995924072" ref="index"/>
+    <file name="index.css" crc="4061765350" ref="index"/>
+    <file name="nosotros.css" crc="365674466" ref="nosotros"/>
+    <file name="cont_ctenos.css" crc="3882096296" ref="contáctenos"/>
+    <file name="proyectos.css" crc="3908720176" ref="proyectos"/>
+    <file name="servicios.css" crc="278515909" ref="servicios"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:servicios:proyectos:nosotros:contáctenos"/>
+    <file name="museutils.js" crc="4291592202" ref="index:servicios:proyectos:nosotros:contáctenos"/>
+    <file name="webpro.js" crc="3903299128" ref="index:contáctenos"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:servicios:proyectos:nosotros:contáctenos"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:servicios:proyectos:nosotros:contáctenos"/>
+    <file name="form_check.php" crc="4225488401" ref="contáctenos"/>
+    <file name="form_throttle.php" crc="425392939" ref="contáctenos"/>
+    <file name="form-u587.php" crc="238042208" ref="contáctenos"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="80535037" ref="index"/>
+    <file name="11.jpg" crc="4241674528" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="020_3d_2500x1875_zcoolcomcn.jpg" crc="3867025645" ref="index"/>
+    <file name="051_300dpi_4368x2912.jpg" crc="251710661" ref="index"/>
+    <file name="stockvault-construction136422.jpg" crc="3888988773" ref="index"/>
+    <file name="tres.jpg" crc="4116674660" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo-dies.png" crc="3983189489" ref="index:servicios:proyectos:nosotros:contáctenos"/>
+    <file name="020_3d_2500x1875_zcool.com.cn.jpg" crc="3889064193" ref="servicios:proyectos:nosotros:contáctenos"/>
+    <file name="images (4).jpg" crc="460545981" ref="servicios"/>
+    <file name="images (5).jpg" crc="145697246" ref="servicios"/>
+    <file name="images (6).jpg" crc="3822027127" ref="servicios"/>
+    <file name="redes-cableado-estructurado-wifi-camaras-seguridad-1480-mco4365273608_052013-f.jpg" crc="4165215551" ref="servicios"/>
+    <file name="images (7).jpg" crc="3924000684" ref="servicios"/>
+    <file name="1305689935_204582716_3-clases-a-domicilio-de-diseno-3d-con-rhinoceros-en-el-distrito-federal-otros-cursos.jpg" crc="241628195" ref="servicios"/>
+    <file name="26614843.jpg" crc="243138974" ref="proyectos"/>
+    <file name="$(kgrhqf,!rmfjkm!hsnsbs,gk8,g2w~~48_100.jpg" crc="3948913707" ref="proyectos"/>
+    <file name="logo.jpg" crc="522733821" ref="proyectos"/>
+    <file name="2012-06-16 070149.jpg" crc="3776206578" ref="proyectos"/>
+    <file name="1314294828_243376962_2-construcciones-de-casas-y-piscinas-concepcion.jpg" crc="4284686005" ref="proyectos"/>
+    <file name="copen.jpg" crc="47048298" ref="proyectos"/>
+    <file name="big_120467.jpg" crc="4062230110" ref="nosotros"/>
+    <file name="big_88441.jpg" crc="3770882801" ref="nosotros"/>
+    <file name="proyecto_enero_1-8.jpg" crc="4019987898" ref="nosotros"/>
+    <file name="u588-17.png" crc="396398680" ref="contáctenos"/>
+    <file name="u588-17-r.png" crc="3773609602" ref="contáctenos"/>
+    <file name="u588-17-m.png" crc="3917162073" ref="contáctenos"/>
+    <file name="u588-17-fs.png" crc="254245916" ref="contáctenos"/>
+  </folder>
+  <file name="index.html" crc="531168169" mt="1387830137692" redirect="true"/>
+  <file name="servicios.html" crc="455337999" mt="1387579219798" redirect="true"/>
+  <file name="proyectos.html" crc="4255342793" mt="1387580754031" redirect="true"/>
+  <file name="nosotros.html" crc="496487959" mt="1387577340619" redirect="true"/>
+  <file name="contáctenos.html" crc="3946369809" mt="1387828721589" redirect="true"/>
+</manifest>
