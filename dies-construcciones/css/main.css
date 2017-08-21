@@ -40,7 +40,7 @@ body {
 .container {
   position: relative;
   height: 100%;
-  z-index: -9999;
+  // z-index: -2;
 
 }
 
@@ -91,6 +91,7 @@ nav .logo img {
 
 nav ul a {
   color: #fff;
+  cursor: pointer;
 }
 
 nav.menu ul li {
