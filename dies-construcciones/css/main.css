@@ -10,6 +10,29 @@
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  font-family: Arial, sans-serif;
+
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+h3 {
+  font-size: .9em;
+}
+
+h2, h3, h4, h5, h6 {
+  font-weight: 200;
+}
+
+p {
+  font-size: 0.9em;
+  font-weight: 100;
+  color: #7F7F7F;
+  line-height: 20px;
+  text-align: justify;
+  
 }
 
 *, *::before, *::after {
@@ -28,20 +51,27 @@ html {
 }
 
 body {
-  font-family: Arial, sans-serif;
   background: gray;
 
 }
 
 .wrapper {
   height: 100vh;
+  width: 100vw;
 }
 
 .container {
   position: relative;
   height: 100%;
+  float: left;
   // z-index: -2;
 
+}
+
+.background {
+  position: absolute;
+  background: url('../images/design.jpg') no-repeat center center fixed;
+  background-size: cover;
 }
 
 /* Slider */
@@ -61,10 +91,21 @@ body {
   object-fit: cover;
 }
 
+.gradient {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.2;
+  // z-index: 1;
+}
+
 /* Menú */
 
 .menu-container {
-  display: table;
+  // display: table;
+  float: left;
   top: 0;
   width: 250px;
   height: 100%;
@@ -73,9 +114,11 @@ body {
 }
 
 nav.menu {
-  display: table-cell;
+  position: fixed;
+  // display: table-cell;
   vertical-align: middle;
-  width: 100%;
+  width: 250px;
+  top: 25%;
   text-align: center;
   
 }
@@ -107,6 +150,89 @@ nav.menu ul li:hover {
 
 }
 
+.active {
+  background-color: #AEB0B3 !important; 
+}
+
+
+
+/* Contenido */
+
+div.content-wrapper {
+  position: relative;
+  padding: 50px 20px 20px 20px;
+  width: 80vw;
+  margin-right: 0;
+  height: auto;
+  overflow: auto;
+  z-index: 1000000;
+  
+}
+
+div.content {
+  background-color: #fff;
+}
+
+div.header {
+  width: 100%;
+  height: auto;
+  padding: 20px 0;
+
+}
+
+div.images {
+  margin: 0 auto;
+  width: 90%;
+  text-align: center;
+  
+}
+
+div.title {
+  width: 100%;
+  padding: 10px 60px;
+  display: inline-block;
+  line-height: 40px;
+  height: auto;
+  background-color: #FCB040;
+  color: #fff;
+  font-weight: 200;
+}
+
+div.title h2 {
+  // line-height: 40px;
+  float: left;
+  font-weight: 
+  
+}
+
+div.title h3 {
+  float: right;
+  // line-height: 40px;
+  
+}
+
+div.body-text {
+  padding: 30px 60px 200px 60px;
+}
+
+div.body-text p {
+  width: auto;
+}
+
+div.content-footer {
+  width: 100%;
+  background-color: #7F7F7F;
+}
+
+div.content-footer h3 {
+  float: right;
+  padding: 10px 60px;
+}
+
+div.content-footer h3 a {
+  color: #fff;
+
+}
 
 // // MENÚ
 
