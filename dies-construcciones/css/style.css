@@ -269,6 +269,11 @@ div.logotipo .social i {
   font-size: 5rem;
 }
 
+.center-y h4 {
+  margin-bottom: -15px;
+  font-size: 1.5rem;
+}
+
 .center-y a {
   padding: 10px 40px;
   background-color: #FCB040;
@@ -338,7 +343,9 @@ a.current_dot {
     width: 82%;
     transition: all .3s ease-in-out;
   }
-
+  .center-y h3 {
+    font-size: 4em;
+  }
   .full-width-slider {
     width: 100%;
     transition: all .3s ease-in-out;
